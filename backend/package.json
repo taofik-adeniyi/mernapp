@@ -1,0 +1,25 @@
+{
+  "name": "goal-based",
+  "version": "1.0.0",
+  "description": "goal's api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [
+    "intro-to-backend"
+  ],
+  "author": "Taofik Adeniyi Adeleke",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
