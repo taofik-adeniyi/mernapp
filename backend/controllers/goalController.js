@@ -69,8 +69,3 @@ module.exports = {
     deleteGoal,
     patchGoal
 }
-
-// mongosh "mongodb://localhost:27017"
-// username taofik
-// password: g2q5DXFEH1nWr3ME
-// mongodb+srv://taofik:g2q5DXFEH1nWr3ME@cluster0.u5uzl.mongodb.net/mernapp
